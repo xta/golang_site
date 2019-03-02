@@ -1,0 +1,19 @@
+body {
+    padding: 2em;
+}
+
+li pre {
+    padding: 1em;
+}
+
+.Red pre  {
+    background-color: red;
+}
+
+.Blue pre {
+    background-color: blue;
+}
+
+.Green pre {
+    background-color: green;
+}
